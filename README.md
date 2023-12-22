@@ -1,6 +1,25 @@
-# vivia_mobile
+#  Application E-Commerce vivia_mobile
 
-A new Flutter project.
+
+## Description
+Une application mobile e-commerce développée avec Flutter.
+
+## Captures d'écran
+Insérez ici quelques captures d'écran de votre application pour donner un aperçu visuel.
+
+![Capture d'écran 1](/chemin/vers/capture1.png)
+![Capture d'écran 2](/chemin/vers/capture2.png)
+
+## Fonctionnalités
+- Liste des fonctionnalités clés de votre application.
+
+## Technologies Utilisées.
+- Flutter
+- Dart
+- Autres dépendances...
+
+## Installation
+1. Cloner le référentiel.
 
 ## Getting Started
 
