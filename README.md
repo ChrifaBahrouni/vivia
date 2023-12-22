@@ -7,7 +7,7 @@ Une application mobile e-commerce développée avec Flutter.
 ## Captures d'écran
 Insérez ici quelques captures d'écran de votre application pour donner un aperçu visuel.
 
-![Capture d'écran 1](/chemin/vers/capture1.png)
+![Capture d'écran 1](Screenshot_2023-12-22-04-43-05-19_26a699d6d0823c9fbe674f6a26a24181.jpg)
 ![Capture d'écran 2](/chemin/vers/capture2.png)
 
 ## Fonctionnalités
